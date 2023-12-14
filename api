@@ -1,4 +1,4 @@
 {
-authURL : "https://google.com",
-accountURL : "https://google.com"
+authURL : "https://google.com/auth",
+accountURL : "https://google.com/account"
 }
